@@ -63,6 +63,5 @@ The Backend API will be running at `localhost:5000`.
 # Deployment
 * Vercel - client side
 
-## MERN FULL STACK INTERNSHIP PROJECT  
 
 
